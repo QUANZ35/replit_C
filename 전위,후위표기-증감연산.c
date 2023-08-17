@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/*
 int main(){
   int a =5, b= 5;
   int pre, post;    //pre:전위 증감 , post: 후위 증감
@@ -12,3 +12,4 @@ int main(){
 
   return 0;
 }
+*/
